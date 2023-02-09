@@ -23,7 +23,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="linux" **alt="linux" width="60" height="60" />
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" title="mssql" **alt="mssql" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" **alt="mysql" width="60" height="60" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="postman" **alt="postman" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python" **alt="python" width="60" height="60" />
 </div>
+
 ---
 
 <h3 align="left">Support:</h3>
