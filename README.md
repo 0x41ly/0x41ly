@@ -2,11 +2,11 @@
 - 🔭 Senior computers and automatic control Student at Tanta university.
 - 🌱 Cyber Security Enthusiast.
 - 👯 Web/Network/Mobile Pen Tester and Bug bounty hunter.
-- 📫 Reach me on [![Linkedin Badge](https://img.shields.io/badge/-mohamed-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aly-khal3d/)
+- 📫 Reach me on [![Linkedin Badge](https://img.shields.io/badge/-0x41ly-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aly-khal3d/)
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=++++++++++++++++++++Pen+Tester;=++++++++++++++++++++Bug+Bounty+Hunter;++++++++++++++++++++.NET+Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Pen+Tester;Bug+Bounty+Hunter;.NET+Software+Developer)](https://git.io/typing-svg)
 
 ---
 
