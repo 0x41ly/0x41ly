@@ -6,7 +6,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Pen+Tester;Bug+Bounty+Hunter;.NET+Software+Developer&font=Fira%20Code&center=true&color=FF0000&size=40&duration=4000&pause=1000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Pen+Tester;Bug+Bounty+Hunter;.NET+Software+Developer&font=Fira%20Code&center=true&color=FF0000&duration=4000&pause=1000)](https://git.io/typing-svg)
 
 ---
 
