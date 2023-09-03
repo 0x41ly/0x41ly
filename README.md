@@ -1,6 +1,7 @@
 ### 👨‍💻 About Me :
-- 🔭 Senior computers and automatic control Student at Tanta university.
+- 🔭 Computers and automatic control Graduate at Tanta university.
 - 🌱 Cyber Security Enthusiast.
+- 🧑‍💻 .Net Backend Developer
 - 👯 Web/Network/Mobile Pen Tester and Bug bounty hunter.
 - 📫 Reach me on [![Linkedin Badge](https://img.shields.io/badge/-0x41ly-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aly-khal3d/)
 
